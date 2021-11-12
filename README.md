@@ -4,13 +4,3 @@
 
 2. [LSTM_Code.ipynb](https://github.com/TSAI-END3-Group/Session_RNN/blob/master/LSTM_Code.ipynb) : LSTM version of the RNN code for IMDB sentiment Anslysis
 
-
-
-## Contributors
-* Rohit Agarwal
-* Vivek Kumar
-* Kushal Gandhi
-* Ammishaddai U
-
-
-
